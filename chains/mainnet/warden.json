@@ -3,13 +3,13 @@
     "api": [
         {
             "address": "https://warden-api.chainad.org/", 
-            "provider": "CoinHunters"
+            "provider": "Elessarnodes"
         }
     ], 
     "rpc": [
         {
             "address": "https://warden-rpc.chainad.org/", 
-            "provider": "CoinHunters"
+            "provider": "Elessarnodes"
         }
     ],
     "sdk_version": "v0.50.5",
