@@ -2,14 +2,14 @@
     "chain_name": "Airchains",
     "api": [
         {
-            "address": "https://airchains-api.chainad.org/", 
-            "provider": "CoinHunters"
+            "address": "https://airchains-api.elessarnodes.xyz/", 
+            "provider": "ElessarNodes"
         }
     ], 
     "rpc": [
         {
-            "address": "https://airchains-rpc.chainad.org/", 
-            "provider": "CoinHunters"
+            "address": "https://airchains-rpc.elessarnodes.xyz/", 
+            "provider": "ElessarNodes"
         }
     ],
     "sdk_version": "v0.50.3",
