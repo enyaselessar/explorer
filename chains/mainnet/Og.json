@@ -2,14 +2,14 @@
     "chain_name": "0G-Newton",
     "api": [
         {
-            "address": "https://0g-api.chainad.org/", 
-            "provider": "CoinHunters"
+            "address": "https://og-api.elessarnodes.xyz/", 
+            "provider": "Elessarnodes"
         }
     ], 
     "rpc": [
         {
-            "address": "https://0g-rpc.chainad.org/", 
-            "provider": "CoinHunters"
+            "address": "https://og-rpc.elessarnodes.xyz/", 
+            "provider": "Elessarnodes"
         }
     ],
     "sdk_version": "v0.46.11",
