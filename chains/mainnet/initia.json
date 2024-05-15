@@ -2,14 +2,14 @@
     "chain_name": "initia",
     "api": [
         {
-            "address": "https://initia-api.chainad.org/", 
-            "provider": "CoinHunters"
+            "address": "https://initia-api.elessarnodes.xyz/", 
+            "provider": "ElessarNodes"
         }
     ], 
     "rpc": [
         {
-            "address": "https://initia-rpc.chainad.org/", 
-            "provider": "CoinHunters"
+            "address": "https://initia-rpc.elessarnodes.xyz/", 
+            "provider": "ElessarNodes"
         }
     ],
     "sdk_version": "v0.0.0-20240514173001-c037b6c44d98",
