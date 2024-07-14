@@ -2,13 +2,13 @@
     "chain_name": "Airchains",
     "api": [
         {
-            "address": "https://airchains-api.elessarnodes.xyz/", 
+            "address": "https://airchainsapi.elessarnodes.xyz/", 
             "provider": "ElessarNodes"
         }
     ], 
     "rpc": [
         {
-            "address": "https://airchains-rpc.elessarnodes.xyz/", 
+            "address": "https://airchainsrpc.elessarnodes.xyz/", 
             "provider": "ElessarNodes"
         }
     ],
